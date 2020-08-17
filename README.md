@@ -14,7 +14,7 @@
 pip install aiogram
 ```
 ## redisPy 
-Final state machine is integrated in redis, using states to validate inputs from keyboard
+*Final state machine* is integrated in redis, using states to validate inputs from keyboard
 
 ```
 pip install redis
